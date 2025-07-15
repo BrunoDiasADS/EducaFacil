@@ -68,7 +68,6 @@ function App() {
   </div>
 )}
 
-    {/* Tela Inicial */}
     {fase === 'inicio' && (
       <>
           <h2>Escolha a matéria:</h2>
