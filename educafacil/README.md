@@ -37,6 +37,7 @@ npm install
 3. Execute o projeto
 ```
 // Em seu terminal digite:
+cd educafacil
 npm run dev
 ```
 
