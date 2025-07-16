@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import './App.css';
+import Logo from './assets/Logo.svg';
+import ilustracao from './assets/illustration.png';
 
 import questoes5A from './data/portugues_5a.json';
 import questoes6A from './data/portugues_6a.json';
@@ -47,75 +49,118 @@ function App() {
   };
 
   return (
-    <div style={{
-      backgroundColor: '#f0f8ff',
-      minHeight: '100vh',
-      color: '#000080',
-      textAlign: 'center',
-      padding: '2rem'
-    }}>
-      <h1>EducaFácil</h1>
-
-      {fase !== 'inicio' && (
-  <div className="botao-voltar">
-    <button onClick={() => {
-      setMateria(null);
-      setAno(null);
-      setFase('inicio');
-    }}>
-      Voltar
-    </button>
-  </div>
-)}
-
-    {fase === 'inicio' && (
-      <>
-          <h2>Escolha a matéria:</h2>
-          <button onClick={() => setMateria('portugues')}>Português</button>
-          <button onClick={() => setMateria('matematica')}>Matemática</button>
-
-          {materia && (
-            <>
-              <h2>Escolha o ano:</h2>
-              <button onClick={() => setAno('5a')}>5ª Série</button>
-              <button onClick={() => setAno('6a')}>6ª Série</button>
-              <button onClick={() => setAno('7a')}>7ª Série</button>
-              <button onClick={() => setAno('8a')}>8ª Série</button>
-              
-        {ano && (
-          <div className="botao-iniciar">
-            <button onClick={iniciarQuiz}>Iniciar Quiz</button>
+    <div className="container">
+      <div className="left-panel">
+        <div className="promo-content">
+          <div className="logo">
+            <img src={Logo} alt="Logo" />
           </div>
-        )}
-      </>
-    )}
-  </>
-)}
+          <h2 className="promo-title">
+            Porque cada momento de <span className="highlight">aprendizado</span> conta
+          </h2>
+          <p className="promo-description">
+           Nunca é tarde demais para aprender algo novo! EducaFácil é a plataforma ideal para você que quer estudar de forma simples e divertida. Escolha sua matéria, ano e comece seu quiz agora mesmo!
+          </p>
+          
+          <img src={ilustracao} alt="Ilustração" />
+     
+        </div>
+      </div>
+      
+      <div className="right-panel">
+        <img className="main-title"src={Logo} alt="EducaFácil Logo" />
 
-      {fase === 'quiz' && (
-        mostrarResultado ? (
-          <>
-            <h2>Quiz finalizado!</h2>
-            <p>Pontuação: {pontuacao} de {questoesAtuais.length}</p>
-            <button onClick={() => {
+        {fase !== 'inicio' && (
+          <button
+            className="botao-voltar"
+            onClick={() => {
               setMateria(null);
               setAno(null);
               setFase('inicio');
-            }}>Voltar ao início</button>
-          </>
-        ) : (
+            }}
+          >
+            Voltar
+          </button>
+        )}
+
+        {fase === 'inicio' && (
           <>
-            <h2>{questoesAtuais[questaoAtual].pergunta}</h2>
-            {questoesAtuais[questaoAtual].opcoes.map((opcao, index) => (
-              <button key={index} onClick={() => responder(opcao)}>
-                {opcao}
+            <h2 className="subtitle">Escolha a matéria:</h2>
+            <div className="button-group">
+              <button onClick={() => setMateria('portugues')}>
+                Português
               </button>
-            ))}
-            <p>Questão {questaoAtual + 1} de {questoesAtuais.length}</p>
-            <p>Pontuação atual: {pontuacao}</p>
+              <button onClick={() => setMateria('matematica')}>
+                Matemática
+              </button>
+            </div>
+
+            {materia && (
+              <div className="card">
+                <h2 className="subtitle">Escolha o ano:</h2>
+                <div className="button-group">
+                  <button onClick={() => setAno('5a')}>5ª Série</button>
+                  <button onClick={() => setAno('6a')}>6ª Série</button>
+                  <button onClick={() => setAno('7a')}>7ª Série</button>
+                  <button onClick={() => setAno('8a')}>8ª Série</button>
+                </div>
+
+                {ano && (
+                  <div className="iniciar-container">
+                    <button className="botao-iniciar" onClick={iniciarQuiz}>
+                      Iniciar Quiz
+                    </button>
+                  </div>
+                )}
+              </div>
+            )}
           </>
-        )
-      )}
+        )}
+
+        {fase === 'quiz' && (
+          <div className="card">
+            {mostrarResultado ? (
+              <>
+                <h2 className="subtitle">Quiz finalizado!</h2>
+                <p className="score">
+                  {pontuacao} de {questoesAtuais.length}
+                </p>
+                <button
+                  className="botao-iniciar"
+                  onClick={() => {
+                    setMateria(null);
+                    setAno(null);
+                    setFase('inicio');
+                  }}
+                >
+                  Voltar ao início
+                </button>
+              </>
+            ) : (
+              <>
+                <h2 className="question">
+                  {questoesAtuais[questaoAtual].pergunta}
+                </h2>
+                <div className="options">
+                  {questoesAtuais[questaoAtual].opcoes.map((opcao, index) => (
+                    <button
+                      key={index}
+                      className="option-button"
+                      onClick={() => responder(opcao)}
+                    >
+                      {opcao}
+                    </button>
+                  ))}
+                </div>
+                <div className="progress">
+                  <p>Questão {questaoAtual + 1} de {questoesAtuais.length}</p>
+                  <p>Pontuação atual: {pontuacao}</p>
+                </div>
+              </>
+            )}
+          </div>
+        )}
+      </div>
     </div>
   );
 }
