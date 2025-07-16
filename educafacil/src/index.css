@@ -32,7 +32,6 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="rgba(255,255,255,0.1)"/><circle cx="75" cy="75" r="1" fill="rgba(255,255,255,0.1)"/><circle cx="50" cy="10" r="0.5" fill="rgba(255,255,255,0.08)"/><circle cx="10" cy="60" r="0.5" fill="rgba(255,255,255,0.08)"/><circle cx="90" cy="40" r="0.5" fill="rgba(255,255,255,0.08)"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
   opacity: 0.3;
 }
 
@@ -70,7 +69,7 @@ body {
 }
 
 .highlight {
-  color: #E43A12;
+  color: #1fa0d1;
   background: rgba(255, 255, 255, 0.2);
   padding: 0.2rem 0.4rem;
   border-radius: 8px;
@@ -87,7 +86,7 @@ body {
 .right-panel {
   width: 50%;
   padding: 2rem;
-  background-color: #FEE7D6;
+  background-color: #d6e6fe;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -99,7 +98,7 @@ body {
   margin: 0 auto ;
   width: 50%;
   font-weight: 700;
-  color: #ff6b35;
+  color: #1fa0d1;
   margin-bottom: 2rem;
   letter-spacing: -0.025em;
 }
@@ -125,7 +124,7 @@ button {
   font-size: 1.1rem;
   font-weight: 600;
   padding: 12px 24px;
-  border: 2px solid #ff6b35;
+  border: 2px solid #1fa0d1;
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -133,26 +132,26 @@ button {
 }
 
 button:hover {
-  background-color: #ff6b35;
+  background-color: #1fa0d1;
   color: #ffffff;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(255, 107, 53, 0.3);
+  box-shadow: 0 4px 8px rgba(53, 208, 255, 0.3);
 }
 
 .botao-iniciar {
-  background-color: #ff6b35 !important;
+  background-color: #1fa0d1 !important;
   color: #ffffff !important;
-  border: 2px solid #ff6b35 !important;
+  border: #14658b 2px solid  !important;
   padding: 14px 32px !important;
   font-size: 1.2rem !important;
   font-weight: 700 !important;
 }
 
 .botao-iniciar:hover {
-  background-color: #ff8f65 !important;
-  border-color: #ff8f65 !important;
+  background-color: #14658b !important;
+  border-color: #14658b !important;
   transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(255, 107, 53, 0.4);
+  box-shadow: 0 6px 12px rgba(7, 92, 141, 0.4);
 }
 
 .botao-voltar {
@@ -222,7 +221,7 @@ button:hover {
 .score {
   font-size: 2rem;
   font-weight: 700;
-  color: #ff6b35;
+  color: #1fa0d1;
   margin-bottom: 1.5rem;
 }
 
