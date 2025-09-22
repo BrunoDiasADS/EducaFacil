@@ -3,17 +3,24 @@ import './App.css';
 import Logo from './assets/Logo.svg';
 import ilustracao from './assets/illustration.png';
 
-import questoes5A from './data/portugues_5a.json';
-import questoes6A from './data/portugues_6a.json';
-import questoes7A from './data/portugues_7a.json';
-import questoes8A from './data/portugues_8a.json';
+import questoes1AP from './data/portugues_1a.json';
+import questoes2AP from './data/portugues_2a.json';
+import questoes3AP from './data/portugues_3a.json';
+
+import questoes1AM from './data/matematica_1a.json';
+import questoes2AM from './data/matematica_2a.json';
+import questoes3AM from './data/matematica_3a.json';
 
 const questoes = {
   portugues: {
-    "5a": questoes5A,
-    "6a": questoes6A,
-    "7a": questoes7A,
-    "8a": questoes8A
+    "1a": questoes1AP,
+    "2a": questoes2AP,
+    "3a": questoes3AP,
+  },
+  matematica: {
+    "1a": questoes1AM,
+    "2a": questoes2AM,
+    "3a": questoes3AM,
   }
 };
 
@@ -87,22 +94,17 @@ function App() {
           <>
             <h2 className="subtitle">Escolha a matéria:</h2>
             <div className="button-group">
-              <button onClick={() => setMateria('portugues')}>
-                Português
-              </button>
-              <button onClick={() => setMateria('matematica')}>
-                Matemática
-              </button>
+              <button onClick={() => setMateria('portugues')}> Português </button>
+              <button onClick={() => setMateria('matematica')}> Matemática </button>
             </div>
 
             {materia && (
               <div className="card">
                 <h2 className="subtitle">Escolha o ano:</h2>
                 <div className="button-group">
-                  <button onClick={() => setAno('5a')}>5ª Série</button>
-                  <button onClick={() => setAno('6a')}>6ª Série</button>
-                  <button onClick={() => setAno('7a')}>7ª Série</button>
-                  <button onClick={() => setAno('8a')}>8ª Série</button>
+                  <button onClick={() => setAno('1a')}>1º Ano</button>
+                  <button onClick={() => setAno('2a')}>2º Ano</button>
+                  <button onClick={() => setAno('3a')}>3º Ano</button>
                 </div>
 
                 {ano && (

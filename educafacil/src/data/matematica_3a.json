@@ -1,0 +1,252 @@
+[
+  {
+    "pergunta": "Resolva a equação log₂(x) = 3.",
+    "opcoes": ["x = 6", "x = 8", "x = 9", "x = 12"],
+    "resposta": "x = 8"
+  },
+  {
+    "pergunta": "Qual é a derivada de f(x) = x²?",
+    "opcoes": ["2x", "x", "x²", "2"],
+    "resposta": "2x"
+  },
+  {
+    "pergunta": "A soma dos ângulos internos de um polígono de 12 lados é:",
+    "opcoes": ["1620°", "1800°", "1980°", "2160°"],
+    "resposta": "1800°"
+  },
+  {
+    "pergunta": "Resolva a inequação x² - 9 < 0.",
+    "opcoes": ["-3 < x < 3", "x < -3 ou x > 3", "x > 0", "x < 0"],
+    "resposta": "-3 < x < 3"
+  },
+  {
+    "pergunta": "Qual é o limite de (2x² - 3x)/(x²) quando x tende a infinito?",
+    "opcoes": ["2", "0", "Infinito", "-3"],
+    "resposta": "2"
+  },
+  {
+    "pergunta": "A função exponencial f(x) = 3^x tem como assíntota horizontal:",
+    "opcoes": ["y = 0", "y = 1", "x = 0", "x = 1"],
+    "resposta": "y = 0"
+  },
+  {
+    "pergunta": "Qual é a derivada de f(x) = sen(x)?",
+    "opcoes": ["cos(x)", "-sen(x)", "-cos(x)", "tan(x)"],
+    "resposta": "cos(x)"
+  },
+  {
+    "pergunta": "Resolva a equação e^x = 1.",
+    "opcoes": ["x = 0", "x = 1", "x = -1", "x = ln(2)"],
+    "resposta": "x = 0"
+  },
+  {
+    "pergunta": "O determinante da matriz [[2,3],[1,4]] é:",
+    "opcoes": ["5", "6", "7", "8"],
+    "resposta": "5"
+  },
+  {
+    "pergunta": "O valor de cos²(θ) + sen²(θ) é:",
+    "opcoes": ["0", "1", "2", "Depende do ângulo"],
+    "resposta": "1"
+  },
+  {
+    "pergunta": "Resolva a equação log₃(x - 1) = 2.",
+    "opcoes": ["x = 8", "x = 9", "x = 10", "x = 7"],
+    "resposta": "x = 10"
+  },
+  {
+    "pergunta": "A derivada de f(x) = x³ é:",
+    "opcoes": ["3x²", "x²", "3x", "x³"],
+    "resposta": "3x²"
+  },
+  {
+    "pergunta": "A soma dos números das raízes da equação x² - 5x + 6 = 0 é:",
+    "opcoes": ["2", "3", "5", "6"],
+    "resposta": "5"
+  },
+  {
+    "pergunta": "Resolva a equação sen(x) = 1.",
+    "opcoes": ["x = π/2 + 2kπ", "x = π + 2kπ", "x = 0", "x = 2πk"],
+    "resposta": "x = π/2 + 2kπ"
+  },
+  {
+    "pergunta": "O determinante da matriz [[1,2,3],[0,1,4],[5,6,0]] é:",
+    "opcoes": ["1", "10", "20", "-1"],
+    "resposta": "1"
+  },
+  {
+    "pergunta": "O limite de (5x + 2)/(x) quando x tende a infinito é:",
+    "opcoes": ["5", "0", "Infinito", "2"],
+    "resposta": "5"
+  },
+  {
+    "pergunta": "A integral de ∫2x dx é:",
+    "opcoes": ["x² + C", "2x² + C", "x + C", "2x + C"],
+    "resposta": "x² + C"
+  },
+  {
+    "pergunta": "A função f(x) = |x| é diferenciável em x = 0?",
+    "opcoes": ["Sim", "Não", "Depende do intervalo", "Somente para x > 0"],
+    "resposta": "Não"
+  },
+  {
+    "pergunta": "O termo independente do binômio (x + 2)³ é:",
+    "opcoes": ["6", "4", "8", "2"],
+    "resposta": "8"
+  },
+  {
+    "pergunta": "A soma dos ângulos internos de um polígono de 20 lados é:",
+    "opcoes": ["3240°", "3400°", "3600°", "1800°"],
+    "resposta": "3240°"
+  },
+  {
+    "pergunta": "Resolva a inequação 2x - 5 > 7.",
+    "opcoes": ["x > 6", "x > 5", "x > 7", "x > 12"],
+    "resposta": "x > 6"
+  },
+  {
+    "pergunta": "A função f(x) = x² - 4x + 3 tem vértice em:",
+    "opcoes": ["(2, -1)", "(1, -2)", "(2, 3)", "(3, -2)"],
+    "resposta": "(2, -1)"
+  },
+  {
+    "pergunta": "A razão da progressão geométrica (2, 6, 18, 54, ...) é:",
+    "opcoes": ["2", "3", "4", "6"],
+    "resposta": "3"
+  },
+  {
+    "pergunta": "Calcule o valor de cos²(30°) + sen²(30°).",
+    "opcoes": ["1", "0,5", "√3/2", "0"],
+    "resposta": "1"
+  },
+  {
+    "pergunta": "A equação da circunferência de centro (0,0) e raio 5 é:",
+    "opcoes": ["x² + y² = 25", "x² + y² = 5", "x² + y² = 10", "x² + y² = √25"],
+    "resposta": "x² + y² = 25"
+  },
+  {
+    "pergunta": "O limite de (x² - 9)/(x - 3) quando x → 3 é:",
+    "opcoes": ["3", "6", "0", "9"],
+    "resposta": "6"
+  },
+  {
+    "pergunta": "Se A = {1,2,3} e B = {a,b}, o número de funções de A em B é:",
+    "opcoes": ["6", "8", "9", "12"],
+    "resposta": "8"
+  },
+  {
+    "pergunta": "O determinante da matriz [[2,0],[0,3]] é:",
+    "opcoes": ["5", "6", "0", "1"],
+    "resposta": "6"
+  },
+  {
+    "pergunta": "O valor de cos(60°) é:",
+    "opcoes": ["1", "1/2", "√3/2", "0"],
+    "resposta": "1/2"
+  },
+  {
+    "pergunta": "Resolva: log₁₀(1000).",
+    "opcoes": ["2", "3", "10", "1000"],
+    "resposta": "3"
+  },
+  {
+    "pergunta": "Resolva a equação exponencial: 2^x = 32.",
+    "opcoes": ["4", "5", "6", "16"],
+    "resposta": "5"
+  },
+  {
+    "pergunta": "A derivada de f(x) = x³ é:",
+    "opcoes": ["3x²", "x²", "2x", "3x"],
+    "resposta": "3x²"
+  },
+  {
+    "pergunta": "Calcule a área de um triângulo de base 10 cm e altura 8 cm.",
+    "opcoes": ["40 cm²", "80 cm²", "20 cm²", "18 cm²"],
+    "resposta": "40 cm²"
+  },
+  {
+    "pergunta": "A soma dos ângulos internos de um polígono de 8 lados é:",
+    "opcoes": ["1080°", "720°", "900°", "1260°"],
+    "resposta": "1080°"
+  },
+  {
+    "pergunta": "O logaritmo log₂(1/8) é igual a:",
+    "opcoes": ["-3", "3", "-2", "2"],
+    "resposta": "-3"
+  },
+  {
+    "pergunta": "A solução da inequação x² - 4 < 0 é:",
+    "opcoes": ["-2 < x < 2", "x > 2", "x < -2", "x > 4"],
+    "resposta": "-2 < x < 2"
+  },
+  {
+    "pergunta": "Calcule a probabilidade de sair um número par em um dado justo.",
+    "opcoes": ["1/6", "2/3", "1/2", "3/6"],
+    "resposta": "1/2"
+  },
+  {
+    "pergunta": "O termo independente do binômio (x+2)³ é:",
+    "opcoes": ["8", "6", "4", "2"],
+    "resposta": "8"
+  },
+  {
+    "pergunta": "A equação x² + 2x + 1 = 0 tem solução:",
+    "opcoes": ["x = -1", "x = 1", "x = 0", "x = ±1"],
+    "resposta": "x = -1"
+  },
+  {
+    "pergunta": "Se f(x) = 2x + 3, então f(5) =",
+    "opcoes": ["10", "12", "13", "15"],
+    "resposta": "13"
+  },
+  {
+    "pergunta": "Resolva: √(49) + √(16).",
+    "opcoes": ["13", "11", "12", "15"],
+    "resposta": "11"
+  },
+  {
+    "pergunta": "O determinante da matriz [[1,2],[3,4]] é:",
+    "opcoes": ["-2", "2", "1", "0"],
+    "resposta": "-2"
+  },
+  {
+    "pergunta": "A área de um círculo de raio 7 cm é (use π = 3,14):",
+    "opcoes": ["153,86 cm²", "144 cm²", "100 cm²", "200 cm²"],
+    "resposta": "153,86 cm²"
+  },
+  {
+    "pergunta": "Se log(x) = 2 na base 10, então x =",
+    "opcoes": ["20", "100", "1000", "10"],
+    "resposta": "100"
+  },
+  {
+    "pergunta": "Resolva a equação: 3x - 7 = 11.",
+    "opcoes": ["6", "7", "8", "9"],
+    "resposta": "6"
+  },
+  {
+    "pergunta": "A função f(x) = -x² + 4x - 3 tem vértice em:",
+    "opcoes": ["(2,1)", "(2,-1)", "(1,2)", "(3,2)"],
+    "resposta": "(2,1)"
+  },
+  {
+    "pergunta": "A soma dos zeros da função f(x) = x² - 5x + 6 é:",
+    "opcoes": ["5", "6", "11", "2"],
+    "resposta": "5"
+  },
+  {
+    "pergunta": "Em uma P.A. com a₁ = 2 e r = 3, o 5º termo é:",
+    "opcoes": ["14", "17", "20", "11"],
+    "resposta": "14"
+  },
+  {
+    "pergunta": "A integral ∫ 2x dx é:",
+    "opcoes": ["x² + C", "2x² + C", "x + C", "2x + C"],
+    "resposta": "x² + C"
+  },
+  {
+    "pergunta": "Qual o volume de um cubo de aresta 4 cm?",
+    "opcoes": ["64 cm³", "16 cm³", "32 cm³", "256 cm³"],
+    "resposta": "64 cm³"
+  }
+]

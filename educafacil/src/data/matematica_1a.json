@@ -1,0 +1,252 @@
+[
+  {
+    "pergunta": "Qual é o valor de x na equação 2x + 5 = 15?",
+    "opcoes": ["x = 5", "x = 10", "x = 15", "x = 20"],
+    "resposta": "x = 5"
+  },
+  {
+    "pergunta": "Qual é a função do segundo grau cuja forma geral é ax² + bx + c = 0?",
+    "opcoes": ["Função linear", "Função quadrática", "Função exponencial", "Função logarítmica"],
+    "resposta": "Função quadrática"
+  },
+  {
+    "pergunta": "Se um triângulo possui lados de 3 cm, 4 cm e 5 cm, qual é seu tipo?",
+    "opcoes": ["Equilátero", "Isósceles", "Escaleno retângulo", "Escaleno obtusângulo"],
+    "resposta": "Escaleno retângulo"
+  },
+  {
+    "pergunta": "Qual é o valor da expressão 3² + 4²?",
+    "opcoes": ["25", "12", "49", "18"],
+    "resposta": "25"
+  },
+  {
+    "pergunta": "O que representa a inclinação (coeficiente angular) de uma reta no plano cartesiano?",
+    "opcoes": ["A largura da reta", "A inclinação em relação ao eixo x", "A altura da reta", "A distância entre os pontos"],
+    "resposta": "A inclinação em relação ao eixo x"
+  },
+  {
+    "pergunta": "Qual é o valor de √81?",
+    "opcoes": ["9", "8", "7", "6"],
+    "resposta": "9"
+  },
+  {
+    "pergunta": "Se f(x) = 2x - 3, qual é o valor de f(4)?",
+    "opcoes": ["5", "8", "9", "11"],
+    "resposta": "5"
+  },
+  {
+    "pergunta": "Em um ângulo reto, quantos graus há?",
+    "opcoes": ["45°", "90°", "180°", "360°"],
+    "resposta": "90°"
+  },
+  {
+    "pergunta": "Qual é a área de um retângulo com base 7 cm e altura 5 cm?",
+    "opcoes": ["35 cm²", "12 cm²", "14 cm²", "25 cm²"],
+    "resposta": "35 cm²"
+  },
+  {
+    "pergunta": "Se um carro percorre 240 km em 4 horas, qual é sua velocidade média?",
+    "opcoes": ["50 km/h", "60 km/h", "80 km/h", "100 km/h"],
+    "resposta": "60 km/h"
+  },
+  {
+    "pergunta": "Qual é o valor de x na equação 5x - 10 = 0?",
+    "opcoes": ["x = 0", "x = 1", "x = 2", "x = 5"],
+    "resposta": "x = 2"
+  },
+  {
+    "pergunta": "Se a = 2 e b = 3, qual é o valor de a² + b²?",
+    "opcoes": ["5", "8", "13", "10"],
+    "resposta": "13"
+  },
+  {
+    "pergunta": "Qual é o perímetro de um quadrado com lado 6 cm?",
+    "opcoes": ["12 cm", "18 cm", "24 cm", "36 cm"],
+    "resposta": "24 cm"
+  },
+  {
+    "pergunta": "Se f(x) = x² e g(x) = x + 2, qual é o valor de f(g(3))?",
+    "opcoes": ["25", "16", "9", "5"],
+    "resposta": "25"
+  },
+  {
+    "pergunta": "Qual é o resultado de (2³) × (3²)?",
+    "opcoes": ["12", "18", "24", "72"],
+    "resposta": "72"
+  },
+  {
+    "pergunta": "Em um círculo, quantos graus há em uma volta completa?",
+    "opcoes": ["90°", "180°", "270°", "360°"],
+    "resposta": "360°"
+  },
+  {
+    "pergunta": "Qual é o valor da expressão 4 × (6 + 2)?",
+    "opcoes": ["8", "16", "24", "32"],
+    "resposta": "32"
+  },
+  {
+    "pergunta": "Qual é o valor de x na equação 3x + 12 = 0?",
+    "opcoes": ["x = -4", "x = 4", "x = -3", "x = 3"],
+    "resposta": "x = -4"
+  },
+  {
+    "pergunta": "Qual é a área de um triângulo com base 10 cm e altura 4 cm?",
+    "opcoes": ["20 cm²", "40 cm²", "10 cm²", "14 cm²"],
+    "resposta": "20 cm²"
+  },
+  {
+    "pergunta": "Se um número é multiplicado por 0, o resultado será:",
+    "opcoes": ["O próprio número", "Zero", "Um", "Infinito"],
+    "resposta": "Zero"
+  },
+  {
+    "pergunta": "Qual é o valor de 5² - 3²?",
+    "opcoes": ["4", "16", "19", "25"],
+    "resposta": "16"
+  },
+  {
+    "pergunta": "A raiz quadrada de 81 é:",
+    "opcoes": ["9", "8", "7", "6"],
+    "resposta": "9"
+  },
+  {
+    "pergunta": "Qual é o próximo número da sequência: 2, 4, 8, 16, ...?",
+    "opcoes": ["18", "24", "32", "64"],
+    "resposta": "32"
+  },
+  {
+    "pergunta": "Se 2x + 5 = 11, qual é o valor de x?",
+    "opcoes": ["x = 2", "x = 3", "x = 4", "x = 6"],
+    "resposta": "x = 3"
+  },
+  {
+    "pergunta": "Qual é a área de um retângulo com lados 7 cm e 3 cm?",
+    "opcoes": ["10 cm²", "14 cm²", "21 cm²", "24 cm²"],
+    "resposta": "21 cm²"
+  },
+  {
+    "pergunta": "Se um automóvel percorre 240 km em 4 horas, qual é a sua velocidade média?",
+    "opcoes": ["40 km/h", "50 km/h", "60 km/h", "80 km/h"],
+    "resposta": "60 km/h"
+  },
+  {
+    "pergunta": "Qual é o valor de (4 × 5) - (3 × 2)?",
+    "opcoes": ["14", "16", "18", "20"],
+    "resposta": "14"
+  },
+  {
+    "pergunta": "Em um dado cúbico, qual é a soma dos números das faces opostas?",
+    "opcoes": ["5", "6", "7", "8"],
+    "resposta": "7"
+  },
+  {
+    "pergunta": "Qual é o valor de 10% de 250?",
+    "opcoes": ["20", "25", "30", "35"],
+    "resposta": "25"
+  },
+  {
+    "pergunta": "Se o perímetro de um círculo é 31,4 cm, qual é aproximadamente o valor do raio? (Considere π = 3,14)",
+    "opcoes": ["4 cm", "5 cm", "6 cm", "10 cm"],
+    "resposta": "5 cm"
+  },
+  {
+    "pergunta": "Qual é o valor de 2³ + 3²?",
+    "opcoes": ["12", "13", "17", "18"],
+    "resposta": "17"
+  },
+  {
+    "pergunta": "Se um triângulo tem lados de 3 cm, 4 cm e 5 cm, ele é:",
+    "opcoes": ["Equilátero", "Isósceles", "Escaleno", "Retângulo"],
+    "resposta": "Retângulo"
+  },
+  {
+    "pergunta": "Quanto é 15% de 200?",
+    "opcoes": ["20", "25", "30", "35"],
+    "resposta": "30"
+  },
+  {
+    "pergunta": "O dobro da soma de 6 e 8 é:",
+    "opcoes": ["14", "28", "32", "20"],
+    "resposta": "28"
+  },
+  {
+    "pergunta": "Se um número multiplicado por 4 resulta em 48, esse número é:",
+    "opcoes": ["10", "11", "12", "13"],
+    "resposta": "12"
+  },
+  {
+    "pergunta": "Qual é a média aritmética de 5, 10 e 15?",
+    "opcoes": ["8", "10", "12", "15"],
+    "resposta": "10"
+  },
+  {
+    "pergunta": "Um ângulo de 90° é chamado de:",
+    "opcoes": ["Agudo", "Obtuso", "Reto", "Raso"],
+    "resposta": "Reto"
+  },
+  {
+    "pergunta": "Qual é a fração equivalente a 0,75?",
+    "opcoes": ["3/4", "2/3", "4/5", "1/2"],
+    "resposta": "3/4"
+  },
+  {
+    "pergunta": "O perímetro de um quadrado de lado 8 cm é:",
+    "opcoes": ["16 cm", "24 cm", "32 cm", "64 cm"],
+    "resposta": "32 cm"
+  },
+  {
+    "pergunta": "Se 5x = 35, qual é o valor de x?",
+    "opcoes": ["5", "6", "7", "8"],
+    "resposta": "7"
+  },
+  {
+    "pergunta": "O valor de 3⁴ é:",
+    "alternativas": ["12", "64", "81", "27"],
+    "correta": "81"
+  },
+  {
+    "pergunta": "Se x = 2 e y = 3, o valor de x² + y² é:",
+    "alternativas": ["12", "13", "14", "15"],
+    "correta": "13"
+  },
+  {
+    "pergunta": "A expressão (5 × 4) ÷ 2 é igual a:",
+    "alternativas": ["5", "10", "15", "20"],
+    "correta": "10"
+  },
+  {
+    "pergunta": "O logaritmo log₂ 8 é igual a:",
+    "alternativas": ["2", "3", "4", "8"],
+    "correta": "3"
+  },
+  {
+    "pergunta": "A solução da equação 2x + 5 = 15 é:",
+    "alternativas": ["x = 5", "x = 10", "x = 15", "x = 20"],
+    "correta": "x = 5"
+  },
+  {
+    "pergunta": "A área de um retângulo com base 12 cm e altura 5 cm é:",
+    "alternativas": ["60 cm²", "50 cm²", "70 cm²", "80 cm²"],
+    "correta": "60 cm²"
+  },
+  {
+    "pergunta": "A função f(x) = 2x - 1, para x = 4, tem valor:",
+    "alternativas": ["6", "7", "8", "9"],
+    "correta": "7"
+  },
+  {
+    "pergunta": "O quadrado da soma (x + 3)² é igual a:",
+    "alternativas": ["x² + 6x + 9", "x² + 9", "x² + 3", "x² + 3x + 9"],
+    "correta": "x² + 6x + 9"
+  },
+  {
+    "pergunta": "A raiz cúbica de 27 é:",
+    "alternativas": ["2", "3", "4", "9"],
+    "correta": "3"
+  },
+  {
+    "pergunta": "A equação 5x = 25 tem como solução:",
+    "alternativas": ["x = 10", "x = 5", "x = 2", "x = 1"],
+    "correta": "x = 5"
+  }
+]

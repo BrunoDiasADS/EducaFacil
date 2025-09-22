@@ -1,0 +1,503 @@
+[
+  {
+    "pergunta": "Em qual alternativa o uso da vírgula está incorreto?",
+    "opcoes": [
+      "Maria, que é muito estudiosa, passou no vestibular.",
+      "Pedro gosta de futebol, e também de vôlei.",
+      "Os alunos trouxeram livros, cadernos e lápis.",
+      "Gosto de filmes românticos, comédias, terror."
+    ],
+    "resposta": "Gosto de filmes românticos, comédias, terror."
+  },
+  {
+    "pergunta": "Assinale a alternativa em que há um erro de concordância verbal.",
+    "opcoes": [
+      "Faltaram argumentos na discussão.",
+      "Havia muitas pessoas na festa.",
+      "Fazem dois anos que ela viajou.",
+      "Devem haver soluções para esse problema."
+    ],
+    "resposta": "Devem haver soluções para esse problema."
+  },
+  {
+    "pergunta": "Qual a função do termo em destaque: 'Ele *mesmo* resolveu o problema'?",
+    "opcoes": [
+      "Pronome indefinido",
+      "Pronome demonstrativo",
+      "Pronome reflexivo",
+      "Pronome enfático"
+    ],
+    "resposta": "Pronome enfático"
+  },
+  {
+    "pergunta": "Em qual alternativa o verbo está na voz passiva analítica?",
+    "opcoes": [
+      "Venderam todos os ingressos.",
+      "Todos os ingressos foram vendidos.",
+      "Vendiam ingressos na porta.",
+      "Vão vender ingressos na entrada."
+    ],
+    "resposta": "Todos os ingressos foram vendidos."
+  },
+  {
+    "pergunta": "Assinale a alternativa que apresenta uma ambiguidade.",
+    "opcoes": [
+      "Vi João com binóculo.",
+      "João estudou para a prova de português.",
+      "A professora explicou a matéria com clareza.",
+      "Os alunos foram bem na redação."
+    ],
+    "resposta": "Vi João com binóculo."
+  },
+  {
+    "pergunta": "Qual das frases apresenta um erro de regência verbal?",
+    "opcoes": [
+      "Assisti ao filme ontem.",
+      "Cheguei à escola cedo.",
+      "Obedeci as regras da escola.",
+      "Gostei do novo professor."
+    ],
+    "resposta": "Obedeci as regras da escola."
+  },
+  {
+    "pergunta": "Em qual das alternativas a crase está empregada corretamente?",
+    "opcoes": [
+      "Fui à feira comprar frutas.",
+      "Cheguei a escola no horário.",
+      "Entreguei o presente à ele.",
+      "Vou à pé todos os dias."
+    ],
+    "resposta": "Fui à feira comprar frutas."
+  },
+  {
+    "pergunta": "Assinale a alternativa que contém uma figura de linguagem chamada metáfora.",
+    "opcoes": [
+      "A chuva caiu forte ontem.",
+      "Ela tem um coração de pedra.",
+      "O gato correu atrás do rato.",
+      "O sol apareceu no horizonte."
+    ],
+    "resposta": "Ela tem um coração de pedra."
+  },
+  {
+    "pergunta": "Na frase 'A garota leu o livro com atenção', qual é a função do termo 'com atenção'?",
+    "opcoes": [
+      "Objeto direto",
+      "Objeto indireto",
+      "Adjunto adverbial",
+      "Complemento nominal"
+    ],
+    "resposta": "Adjunto adverbial"
+  },
+  {
+    "pergunta": "Qual das orações abaixo apresenta um erro de colocação pronominal?",
+    "opcoes": [
+      "Me disseram que ele saiu.",
+      "Disseram-me que ele saiu.",
+      "Disse-me que ele saiu.",
+      "Contaram-me uma história incrível."
+    ],
+    "resposta": "Me disseram que ele saiu."
+  },
+  {
+    "pergunta": "Assinale a alternativa que apresenta um exemplo de linguagem denotativa.",
+    "opcoes": [
+      "A vida é um mar de rosas.",
+      "Meu coração é um vulcão.",
+      "O trem chegou à estação às 15h.",
+      "Ele é um leão em campo."
+    ],
+    "resposta": "O trem chegou à estação às 15h."
+  },
+  {
+    "pergunta": "Em qual alternativa o termo sublinhado é um adjunto adnominal?",
+    "opcoes": [
+      "As *crianças felizes* brincavam no parque.",
+      "A professora explicou a matéria *com clareza*.",
+      "Ele saiu *de manhã*.",
+      "Estavam todos *com sono*."
+    ],
+    "resposta": "As *crianças felizes* brincavam no parque."
+  },
+  {
+    "pergunta": "Em: 'Se eu tivesse estudado, teria ido melhor na prova', qual é o tipo de período?",
+    "opcoes": [
+      "Simples",
+      "Composto por coordenação",
+      "Composto por subordinação",
+      "Composto por justaposição"
+    ],
+    "resposta": "Composto por subordinação"
+  },
+  {
+    "pergunta": "Qual é a oração subordinada adjetiva restritiva?",
+    "opcoes": [
+      "Os alunos, que estudam bastante, tiram boas notas.",
+      "Os professores, que são exigentes, cobram muito.",
+      "Os livros que comprei são interessantes.",
+      "A escola, que é antiga, foi reformada."
+    ],
+    "resposta": "Os livros que comprei são interessantes."
+  },
+  {
+    "pergunta": "A função da linguagem predominante em um manual de instruções é:",
+    "opcoes": [
+      "Conativa",
+      "Referencial",
+      "Poética",
+      "Fática"
+    ],
+    "resposta": "Referencial"
+  },
+  {
+    "pergunta": "Assinale a alternativa com erro de ortografia:",
+    "opcoes": [
+      "Exceção",
+      "Pretenção",
+      "Recepção",
+      "Conexão"
+    ],
+    "resposta": "Pretenção"
+  },
+  {
+    "pergunta": "Qual das palavras abaixo possui acento por ser proparoxítona?",
+    "opcoes": [
+      "Sofá",
+      "Árvore",
+      "Café",
+      "Você"
+    ],
+    "resposta": "Árvore"
+  },
+  {
+    "pergunta": "Assinale a alternativa em que há um erro de regência nominal:",
+    "opcoes": [
+      "Tenho necessidade de ajuda.",
+      "Tenho simpatia por ela.",
+      "Tenho respeito com os professores.",
+      "Tenho medo de altura."
+    ],
+    "resposta": "Tenho respeito com os professores."
+  },
+  {
+    "pergunta": "Em: 'Apesar de tudo, continuou firme', a expressão 'apesar de tudo' indica:",
+    "opcoes": [
+      "Condição",
+      "Tempo",
+      "Concessão",
+      "Causa"
+    ],
+    "resposta": "Concessão"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta apenas palavras homônimas?",
+    "opcoes": [
+      "Cedo – Sede",
+      "Certo – Serro",
+      "Rio – Rir",
+      "Acento – Assento"
+    ],
+    "resposta": "Acento – Assento"
+  },
+  {
+    "pergunta": "Assinale a alternativa correta quanto ao uso da crase:",
+    "opcoes": [
+      "Fui à escola ontem.",
+      "Entreguei o presente à ele.",
+      "Cheguei à uma conclusão.",
+      "Obedeço à regras claras."
+    ],
+    "resposta": "Fui à escola ontem."
+  },
+  {
+    "pergunta": "Qual alternativa apresenta uma figura de linguagem chamada hipérbole?",
+    "opcoes": [
+      "Ele chorou rios de lágrimas.",
+      "A cidade dormia em silêncio.",
+      "O tempo voa.",
+      "O céu sorriu para mim."
+    ],
+    "resposta": "Ele chorou rios de lágrimas."
+  },
+  {
+    "pergunta": "Em: 'Ele é mais teimoso do que inteligente', a oração expressa:",
+    "opcoes": [
+      "Comparação",
+      "Causa",
+      "Concessão",
+      "Condição"
+    ],
+    "resposta": "Comparação"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta uma oração subordinada adverbial condicional?",
+    "opcoes": [
+      "Se chover, não sairemos.",
+      "Embora cansado, ele foi à aula.",
+      "Assim que puder, irei.",
+      "Como estava doente, não veio."
+    ],
+    "resposta": "Se chover, não sairemos."
+  },
+  {
+    "pergunta": "A palavra 'por que' está corretamente usada em:",
+    "opcoes": [
+      "Você sabe porque ela saiu?",
+      "Não entendi por que você foi embora.",
+      "Ela não veio por quê?",
+      "Este é o motivo porquê estou triste."
+    ],
+    "resposta": "Não entendi por que você foi embora."
+  },
+  {
+    "pergunta": "Qual alternativa apresenta uma oração coordenada sindética adversativa?",
+    "opcoes": [
+      "Cheguei cedo, e fui embora tarde.",
+      "Estudei muito, mas não passei.",
+      "Ele trabalha muito, portanto merece férias.",
+      "Ficamos em casa porque choveu."
+    ],
+    "resposta": "Estudei muito, mas não passei."
+  },
+  {
+    "pergunta": "Assinale a alternativa em que o uso da vírgula está incorreto:",
+    "opcoes": [
+      "João, meu primo, chegou ontem.",
+      "Cansada, ela foi dormir.",
+      "Ele saiu e, voltou mais tarde.",
+      "Maria chegou cedo, mas saiu tarde."
+    ],
+    "resposta": "Ele saiu e, voltou mais tarde."
+  },
+  {
+    "pergunta": "A função da linguagem predominante em uma propaganda publicitária é:",
+    "opcoes": [
+      "Referencial",
+      "Metalinguística",
+      "Conativa",
+      "Fática"
+    ],
+    "resposta": "Conativa"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta uma oração subordinada substantiva objetiva direta?",
+    "opcoes": [
+      "Desejo que você estude mais.",
+      "Quando ele chegou, saímos.",
+      "Apesar da chuva, fomos ao parque.",
+      "Ela é tão gentil quanto você."
+    ],
+    "resposta": "Desejo que você estude mais."
+  },
+  {
+    "pergunta": "Qual alternativa apresenta um erro de concordância verbal?",
+    "opcoes": [
+      "Houveram muitos problemas na escola.",
+      "Faz três anos que nos mudamos.",
+      "Há pessoas esperando lá fora.",
+      "Existem bons motivos para isso."
+    ],
+    "resposta": "Houveram muitos problemas na escola."
+  },
+  {
+    "pergunta": "Em qual das opções há um exemplo de linguagem denotativa?",
+    "opcoes": [
+      "A vida é um mar de rosas.",
+      "Ele tem um coração de pedra.",
+      "O cachorro latiu a noite toda.",
+      "O tempo é um velho sábio."
+    ],
+    "resposta": "O cachorro latiu a noite toda."
+  },
+  {
+    "pergunta": "O que é uma anáfora?",
+    "opcoes": [
+      "A repetição de uma palavra ou expressão no início de versos ou frases.",
+      "A omissão de termos facilmente subentendidos.",
+      "O uso de palavras contrárias em um mesmo contexto.",
+      "A substituição de um termo por outro com significado semelhante."
+    ],
+    "resposta": "A repetição de uma palavra ou expressão no início de versos ou frases."
+  },
+  {
+    "pergunta": "Em 'Ela pediu que ele a ouvisse com atenção', qual o tipo de oração subordinada?",
+    "opcoes": [
+      "Adverbial causal",
+      "Substantiva objetiva direta",
+      "Adjetiva restritiva",
+      "Adverbial condicional"
+    ],
+    "resposta": "Substantiva objetiva direta"
+  },
+  {
+    "pergunta": "Qual das frases abaixo está correta quanto ao uso da norma culta da língua?",
+    "opcoes": [
+      "Fazem dois anos que não te vejo.",
+      "Houveram várias reclamações.",
+      "Deve existir soluções melhores.",
+      "Faz tempo que não nos vemos."
+    ],
+    "resposta": "Faz tempo que não nos vemos."
+  },
+  {
+    "pergunta": "Assinale a alternativa em que há pleonasmo vicioso:",
+    "opcoes": [
+      "Entrar para dentro",
+      "Subir a escada",
+      "Descer do ônibus",
+      "Voltar para casa"
+    ],
+    "resposta": "Entrar para dentro"
+  },
+  {
+    "pergunta": "A expressão 'às vezes' é classificada como:",
+    "opcoes": [
+      "Advérbio de tempo",
+      "Conjunção causal",
+      "Preposição",
+      "Locução prepositiva"
+    ],
+    "resposta": "Advérbio de tempo"
+  },
+  {
+    "pergunta": "Qual frase apresenta uma linguagem figurada?",
+    "opcoes": [
+      "O céu estava limpo.",
+      "Ele tem os olhos azuis.",
+      "Ela é uma flor.",
+      "Compramos frutas frescas."
+    ],
+    "resposta": "Ela é uma flor."
+  },
+  {
+    "pergunta": "Em 'A moça que sorriu estava feliz', o termo 'que sorriu' é:",
+    "opcoes": [
+      "Orações coordenadas",
+      "Oração subordinada adjetiva explicativa",
+      "Oração subordinada adjetiva restritiva",
+      "Complemento nominal"
+    ],
+    "resposta": "Oração subordinada adjetiva restritiva"
+  },
+  {
+    "pergunta": "A função metalinguística da linguagem se caracteriza por:",
+    "opcoes": [
+      "Dar ordens ao receptor.",
+      "Transmitir emoções do emissor.",
+      "Focar na própria linguagem.",
+      "Garantir a comunicação entre emissor e receptor."
+    ],
+    "resposta": "Focar na própria linguagem."
+  },
+  {
+    "pergunta": "Qual das alternativas é exemplo de catacrese?",
+    "opcoes": [
+      "Chuva de ideias",
+      "Braço da cadeira",
+      "Mar de rosas",
+      "Tempo é dinheiro"
+    ],
+    "resposta": "Braço da cadeira"
+  },
+  {
+    "pergunta": "Qual é a função da vírgula na frase: 'Maria, cansada, foi para casa'?",
+    "opcoes": [
+      "Separar o sujeito do predicado",
+      "Indicar uma enumeração",
+      "Marcar um aposto explicativo",
+      "Indicar uma oração subordinada"
+    ],
+    "resposta": "Marcar um aposto explicativo"
+  },
+  {
+    "pergunta": "Em qual das frases ocorre erro de concordância verbal?",
+    "opcoes": [
+      "Faltam cinco minutos para o início da aula.",
+      "Fazem anos que não nos vemos.",
+      "Havia muitas pessoas na festa.",
+      "Precisam-se de funcionários."
+    ],
+    "resposta": "Fazem anos que não nos vemos."
+  },
+  {
+    "pergunta": "Qual alternativa apresenta uma linguagem conotativa?",
+    "opcoes": [
+      "O cachorro latiu a noite inteira.",
+      "O carro está estacionado na garagem.",
+      "O sol da sua presença aquece meu coração.",
+      "Comprei pão e leite no mercado."
+    ],
+    "resposta": "O sol da sua presença aquece meu coração."
+  },
+  {
+    "pergunta": "Em 'João sabia que venceria a prova', qual o tipo de oração subordinada?",
+    "opcoes": [
+      "Adjetiva restritiva",
+      "Substantiva objetiva indireta",
+      "Substantiva subjetiva",
+      "Substantiva objetiva direta"
+    ],
+    "resposta": "Substantiva objetiva direta"
+  },
+  {
+    "pergunta": "Assinale a alternativa que apresenta um erro gramatical:",
+    "opcoes": [
+      "Eles se entreolharam rapidamente.",
+      "Ela mesma fez o trabalho.",
+      "Nós vamos se divertir muito.",
+      "Ele continua estudando bastante."
+    ],
+    "resposta": "Nós vamos se divertir muito."
+  },
+  {
+    "pergunta": "Qual das opções apresenta uma oração subordinada adverbial causal?",
+    "opcoes": [
+      "Se estudar, passará no vestibular.",
+      "Embora estivesse cansado, foi trabalhar.",
+      "Porque choveu, não saímos.",
+      "Conforme combinado, começamos às 8h."
+    ],
+    "resposta": "Porque choveu, não saímos."
+  },
+  {
+    "pergunta": "Qual das palavras abaixo é um advérbio?",
+    "opcoes": [
+      "Mesa",
+      "Felizmente",
+      "Bonita",
+      "Caderno"
+    ],
+    "resposta": "Felizmente"
+  },
+  {
+    "pergunta": "Na frase 'A casa onde moro é antiga', o termo 'onde' exerce função de:",
+    "opcoes": [
+      "Pronome relativo",
+      "Conjunção subordinativa",
+      "Advérbio de tempo",
+      "Substantivo"
+    ],
+    "resposta": "Pronome relativo"
+  },
+  {
+    "pergunta": "Assinale a alternativa em que há uso de linguagem formal:",
+    "opcoes": [
+      "A gente vai no cinema depois?",
+      "Cê vai na festa hoje?",
+      "Você irá ao evento esta noite?",
+      "Tô indo já!"
+    ],
+    "resposta": "Você irá ao evento esta noite?"
+  },
+  {
+    "pergunta": "Qual dos pares apresenta palavras homônimas?",
+    "opcoes": [
+      "Concerto / Conserto",
+      "Mas / Mais",
+      "Sela / Cela",
+      "Cego / Cego"
+    ],
+    "resposta": "Concerto / Conserto"
+  }
+]
+

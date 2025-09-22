@@ -1,0 +1,419 @@
+[
+  {
+    "pergunta": "Qual é o sentido da palavra 'bastante' na frase: 'Ela estava bastante cansada'?",
+    "opcoes": ["Pouco", "Muito", "Satisfeita", "Quase nada"],
+    "resposta": "Muito"
+  },
+  {
+    "pergunta": "Em qual alternativa há um erro de concordância verbal?",
+    "opcoes": ["Faltaram cadeiras na reunião.", "Houveram muitos problemas.", "Chegaram cedo os alunos.", "Existem dúvidas sobre o tema."],
+    "resposta": "Houveram muitos problemas."
+  },
+  {
+    "pergunta": "Qual o tipo de sujeito na frase: 'Choveu muito ontem à noite'?",
+    "opcoes": ["Sujeito oculto", "Sujeito simples", "Sujeito indeterminado", "Sujeito inexistente"],
+    "resposta": "Sujeito inexistente"
+  },
+  {
+    "pergunta": "Assinale a alternativa em que a crase foi usada corretamente.",
+    "opcoes": ["Entregou o presente à ela.", "Chegamos à escola cedo.", "Voltou à pé para casa.", "Assistiu à o filme ontem."],
+    "resposta": "Chegamos à escola cedo."
+  },
+  {
+    "pergunta": "Qual é o termo que caracteriza uma interjeição?",
+    "opcoes": ["Felizmente", "Afinal", "Nossa!", "Porém"],
+    "resposta": "Nossa!"
+  },
+  {
+    "pergunta": "Na frase 'Ele mesmo consertou o carro', qual a função da palavra 'mesmo'?",
+    "opcoes": ["Adjetivo", "Pronome indefinido", "Pronome reflexivo", "Pronome demonstrativo"],
+    "resposta": "Pronome reflexivo"
+  },
+  {
+    "pergunta": "Qual é a figura de linguagem presente em: 'O tempo voa quando estamos felizes'?",
+    "opcoes": ["Metáfora", "Hipérbole", "Personificação", "Ironia"],
+    "resposta": "Personificação"
+  },
+  {
+    "pergunta": "Em qual alternativa o uso da vírgula está incorreto?",
+    "opcoes": ["Sim, eu aceito.", "João, trouxe o carro.", "A menina, que estuda aqui, passou.", "Vamos comer crianças."],
+    "resposta": "Vamos comer crianças."
+  },
+  {
+    "pergunta": "Qual é o predicado da frase: 'Os alunos realizaram a prova com atenção'?",
+    "opcoes": ["Os alunos", "Realizaram", "Realizaram a prova com atenção", "A prova com atenção"],
+    "resposta": "Realizaram a prova com atenção"
+  },
+  {
+    "pergunta": "Em qual das alternativas há uma ambiguidade?",
+    "opcoes": [
+      "O policial viu o ladrão com o binóculo.",
+      "A menina estudava todos os dias.",
+      "Comemos pizza ontem à noite.",
+      "A prova estava muito difícil."
+    ],
+    "resposta": "O policial viu o ladrão com o binóculo."
+  },
+  {
+    "pergunta": "Em 'Ela se cortou com a faca', qual é a função do pronome 'se'?",
+    "opcoes": ["Pronome reflexivo", "Pronome pessoal do caso reto", "Pronome oblíquo átono", "Pronome demonstrativo"],
+    "resposta": "Pronome reflexivo"
+  },
+  {
+    "pergunta": "Qual é o erro presente na frase: 'Fazem dois anos que não o vejo'?",
+    "opcoes": ["Erro de ortografia", "Erro de regência", "Erro de concordância verbal", "Não há erro"],
+    "resposta": "Erro de concordância verbal"
+  },
+  {
+    "pergunta": "A palavra 'por que' é corretamente usada em:",
+    "opcoes": [
+      "Gostaria de saber por que você faltou.",
+      "Você não veio porque?",
+      "Ele não sabe o porque da ausência.",
+      "Não entendo porquê."
+    ],
+    "resposta": "Gostaria de saber por que você faltou."
+  },
+  {
+    "pergunta": "Em 'Ele estava certo de que conseguiria', a expressão 'de que' está correta por quê?",
+    "opcoes": [
+      "A regência do adjetivo 'certo' exige preposição",
+      "É um caso de crase obrigatória",
+      "É uma oração subordinada adverbial",
+      "A regência do verbo 'conseguir' exige preposição"
+    ],
+    "resposta": "A regência do adjetivo 'certo' exige preposição"
+  },
+  {
+    "pergunta": "Qual é o antônimo de 'benevolente'?",
+    "opcoes": ["Bondoso", "Caridoso", "Malevolente", "Generoso"],
+    "resposta": "Malevolente"
+  },
+  {
+    "pergunta": "A função da linguagem predominante em um poema lírico é:",
+    "opcoes": ["Referencial", "Conativa", "Emotiva", "Fática"],
+    "resposta": "Emotiva"
+  },
+  {
+    "pergunta": "Na frase 'Embora estivesse cansado, continuou a trabalhar', a palavra 'embora' introduz uma oração:",
+    "opcoes": ["Adversativa", "Condicional", "Concessiva", "Causal"],
+    "resposta": "Concessiva"
+  },
+  {
+    "pergunta": "Qual das palavras abaixo é um advérbio de intensidade?",
+    "opcoes": ["Lentamente", "Muito", "Fora", "Logo"],
+    "resposta": "Muito"
+  },
+  {
+    "pergunta": "Qual é o tempo verbal da frase: 'Quando eu chegar, te aviso'?",
+    "opcoes": ["Pretérito perfeito", "Futuro do presente", "Futuro do pretérito", "Futuro do subjuntivo"],
+    "resposta": "Futuro do subjuntivo"
+  },
+  {
+    "pergunta": "Em 'A casa que comprei é linda', o termo 'que' é:",
+    "opcoes": ["Pronome interrogativo", "Conjunção integrante", "Pronome relativo", "Artigo definido"],
+    "resposta": "Pronome relativo"
+  },
+  {
+    "pergunta": "Qual das alternativas apresenta um exemplo de metonímia?",
+    "opcoes": [
+      "Ele tem um coração de pedra.",
+      "Lemos Machado de Assis na aula de hoje.",
+      "Ela é uma flor de pessoa.",
+      "A cidade dormia em silêncio."
+    ],
+    "resposta": "Lemos Machado de Assis na aula de hoje."
+  },
+  {
+    "pergunta": "A frase 'Ela cantava enquanto cozinhava' apresenta uma oração:",
+    "opcoes": [
+      "Coordenada adversativa",
+      "Subordinada causal",
+      "Coordenada alternativa",
+      "Coordenada temporal"
+    ],
+    "resposta": "Coordenada temporal"
+  },
+  {
+    "pergunta": "Em 'O aluno de quem falei chegou', o termo 'de quem' é:",
+    "opcoes": [
+      "Pronome interrogativo",
+      "Conjunção integrante",
+      "Pronome relativo",
+      "Advérbio de lugar"
+    ],
+    "resposta": "Pronome relativo"
+  },
+  {
+    "pergunta": "O que caracteriza a linguagem denotativa?",
+    "opcoes": [
+      "É conotativa e simbólica",
+      "É objetiva e literal",
+      "Usa figuras de linguagem",
+      "Apresenta duplo sentido"
+    ],
+    "resposta": "É objetiva e literal"
+  },
+  {
+    "pergunta": "Qual é o tipo de sujeito na frase 'Choveu muito ontem'?",
+    "opcoes": [
+      "Sujeito oculto",
+      "Sujeito determinado",
+      "Sujeito indeterminado",
+      "Sujeito inexistente"
+    ],
+    "resposta": "Sujeito inexistente"
+  },
+  {
+    "pergunta": "Na frase 'Ele mesmo resolveu o problema', o termo 'mesmo' tem função de:",
+    "opcoes": [
+      "Adjetivo",
+      "Advérbio",
+      "Pronome demonstrativo",
+      "Pronome enfático"
+    ],
+    "resposta": "Pronome enfático"
+  },
+  {
+    "pergunta": "Qual é a função do texto injuntivo?",
+    "opcoes": [
+      "Descrever algo",
+      "Relatar um fato",
+      "Convencer o leitor",
+      "Dar ordens ou instruções"
+    ],
+    "resposta": "Dar ordens ou instruções"
+  },
+  {
+    "pergunta": "Na frase 'Espero que você estude', a oração destacada é:",
+    "opcoes": [
+      "Oração coordenada",
+      "Oração subordinada adjetiva",
+      "Oração subordinada substantiva",
+      "Oração subordinada adverbial"
+    ],
+    "resposta": "Oração subordinada substantiva"
+  },
+  {
+    "pergunta": "Qual das alternativas apresenta um erro de colocação pronominal?",
+    "opcoes": [
+      "Me disseram a verdade.",
+      "Disseram-me a verdade.",
+      "A verdade me disseram.",
+      "Disseram a verdade-me."
+    ],
+    "resposta": "Disseram a verdade-me."
+  },
+  {
+    "pergunta": "O trecho 'A vida é feita de escolhas' possui qual tipo de predicado?",
+    "opcoes": [
+      "Predicado verbal",
+      "Predicado nominal",
+      "Predicado verbo-nominal",
+      "Predicado oculto"
+    ],
+    "resposta": "Predicado nominal"
+  },
+  {
+    "pergunta": "Qual é o valor semântico da conjunção 'embora' na frase: 'Embora estivesse cansado, continuou trabalhando'?",
+    "opcoes": [
+      "Causal",
+      "Concessivo",
+      "Temporal",
+      "Condicional"
+    ],
+    "resposta": "Concessivo"
+  },
+  {
+    "pergunta": "A crase é obrigatória em qual alternativa?",
+    "opcoes": [
+      "Vou a escola todos os dias.",
+      "Cheguei à conclusão correta.",
+      "Referi-me a aluna exemplar.",
+      "Assisti a peça ontem."
+    ],
+    "resposta": "Cheguei à conclusão correta."
+  },
+  {
+    "pergunta": "O que é um texto dissertativo-argumentativo?",
+    "opcoes": [
+      "Um texto que narra uma história fictícia",
+      "Um texto que descreve um local",
+      "Um texto que expõe uma opinião com argumentos",
+      "Um texto que apenas informa fatos"
+    ],
+    "resposta": "Um texto que expõe uma opinião com argumentos"
+  },
+  {
+    "pergunta": "Na frase 'Fizeram-se críticas severas ao governo', o verbo está na voz:",
+    "opcoes": [
+      "Ativa",
+      "Passiva analítica",
+      "Passiva sintética",
+      "Reflexiva"
+    ],
+    "resposta": "Passiva sintética"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta uma linguagem formal adequada a um texto dissertativo?",
+    "opcoes": [
+      "Tipo assim, é complicado.",
+      "Tá tudo certo.",
+      "No entanto, observa-se um problema.",
+      "A galera curte muito isso."
+    ],
+    "resposta": "No entanto, observa-se um problema."
+  },
+  {
+    "pergunta": "Qual figura de linguagem está presente em: 'O tempo voa'?",
+    "opcoes": [
+      "Metáfora",
+      "Eufemismo",
+      "Hipérbole",
+      "Ironia"
+    ],
+    "resposta": "Metáfora"
+  },
+  {
+    "pergunta": "Em qual das frases o uso do 'porque' está correto?",
+    "opcoes": [
+      "Não veio por que estava cansado.",
+      "Não veio porque estava cansado.",
+      "Não veio, porquê estava cansado.",
+      "Não veio por quê estava cansado."
+    ],
+    "resposta": "Não veio porque estava cansado."
+  },
+  {
+    "pergunta": "A função conativa da linguagem é usada principalmente:",
+    "opcoes": [
+      "Para convencer ou influenciar o leitor",
+      "Para expressar emoções",
+      "Para informar objetivamente",
+      "Para focar na forma da mensagem"
+    ],
+    "resposta": "Para convencer ou influenciar o leitor"
+  },
+  {
+    "pergunta": "Qual o tipo de discurso que reproduz literalmente as palavras do personagem?",
+    "opcoes": [
+      "Discurso indireto",
+      "Discurso indireto livre",
+      "Discurso direto",
+      "Discurso objetivo"
+    ],
+    "resposta": "Discurso direto"
+  },
+  {
+    "pergunta": "A que tipo textual pertence uma receita culinária?",
+    "opcoes": [
+      "Narrativo",
+      "Dissertativo",
+      "Descritivo",
+      "Injuntivo"
+    ],
+    "resposta": "Injuntivo"
+  },
+  {
+    "pergunta": "Qual é a principal característica do texto injuntivo?",
+    "opcoes": [
+      "Relatar fatos do passado",
+      "Expressar sentimentos",
+      "Induzir o leitor a uma ação",
+      "Expor uma opinião com argumentos"
+    ],
+    "resposta": "Induzir o leitor a uma ação"
+  },
+  {
+    "pergunta": "Na frase 'Pedro, que é muito estudioso, passou no vestibular', a oração destacada é:",
+    "opcoes": [
+      "Oração subordinada adverbial",
+      "Oração subordinada adjetiva explicativa",
+      "Oração coordenada aditiva",
+      "Oração principal"
+    ],
+    "resposta": "Oração subordinada adjetiva explicativa"
+  },
+  {
+    "pergunta": "Em qual alternativa há erro quanto ao uso da vírgula?",
+    "opcoes": [
+      "João, Maria e Pedro viajaram.",
+      "Apesar da chuva, fomos ao parque.",
+      "O carro que comprei, é vermelho.",
+      "Depois do almoço, fomos ao cinema."
+    ],
+    "resposta": "O carro que comprei, é vermelho."
+  },
+  {
+    "pergunta": "Em: 'Ele é tão estudioso quanto o irmão', temos uma oração:",
+    "opcoes": [
+      "Comparativa",
+      "Causal",
+      "Condicional",
+      "Concessiva"
+    ],
+    "resposta": "Comparativa"
+  },
+  {
+    "pergunta": "Qual das alternativas apresenta uma forma verbal no pretérito mais-que-perfeito?",
+    "opcoes": [
+      "Estudava todos os dias.",
+      "Estudaria se tivesse tempo.",
+      "Estudara antes da prova.",
+      "Estuda com dedicação."
+    ],
+    "resposta": "Estudara antes da prova."
+  },
+  {
+    "pergunta": "Qual é a função da linguagem predominante em uma propaganda comercial?",
+    "opcoes": [
+      "Referencial",
+      "Emotiva",
+      "Conativa",
+      "Metalinguística"
+    ],
+    "resposta": "Conativa"
+  },
+  {
+    "pergunta": "A forma verbal 'haviam saído' está correta?",
+    "opcoes": [
+      "Sim, pois 'haver' no sentido de existir é impessoal.",
+      "Não, pois o verbo 'haver' é impessoal e deve ficar no singular.",
+      "Sim, porque concorda com o sujeito 'eles'.",
+      "Sim, desde que venha acompanhado de outro verbo."
+    ],
+    "resposta": "Não, pois o verbo 'haver' é impessoal e deve ficar no singular."
+  },
+  {
+    "pergunta": "Em: 'Ela leu o livro com atenção e cuidado', temos um exemplo de:",
+    "opcoes": [
+      "Pleonasmo",
+      "Metonímia",
+      "Polissíndeto",
+      "Zeugma"
+    ],
+    "resposta": "Zeugma"
+  },
+  {
+    "pergunta": "O que caracteriza um texto literário?",
+    "opcoes": [
+      "Informações objetivas e diretas",
+      "Uso de linguagem conotativa e artística",
+      "Finalidade puramente informativa",
+      "Conteúdo jornalístico"
+    ],
+    "resposta": "Uso de linguagem conotativa e artística"
+  },
+  {
+    "pergunta": "Qual das alternativas apresenta um período composto por subordinação?",
+    "opcoes": [
+      "Cheguei e fui dormir.",
+      "Ele estudou muito, mas não passou.",
+      "Quando cheguei, ele já havia saído.",
+      "Ela saiu, e eu fiquei em casa."
+    ],
+    "resposta": "Quando cheguei, ele já havia saído."
+  }
+]
+
+

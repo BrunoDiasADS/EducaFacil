@@ -1,0 +1,353 @@
+[
+  {
+    "pergunta": "Qual é a função da vírgula na frase: 'Maria, vá buscar o livro'?",
+    "opcoes": [
+      "Indicar uma pausa natural na fala",
+      "Separar o sujeito do predicado",
+      "Indicar vocativo",
+      "Sinalizar uma enumeração"
+    ],
+    "resposta": "Indicar vocativo"
+  },
+  {
+    "pergunta": "Em qual alternativa o verbo está no pretérito perfeito?",
+    "opcoes": [
+      "Ele vai à escola todos os dias",
+      "Ele ia à escola frequentemente",
+      "Ele foi à escola ontem",
+      "Ele irá à escola amanhã"
+    ],
+    "resposta": "Ele foi à escola ontem"
+  },
+  {
+    "pergunta": "Qual é o sujeito da frase: 'Choveram flores sobre os noivos'?",
+    "opcoes": [
+      "Flores",
+      "Os noivos",
+      "Implícito",
+      "Choveram"
+    ],
+    "resposta": "Flores"
+  },
+  {
+    "pergunta": "A palavra “inconstitucionalissimamente” é exemplo de:",
+    "opcoes": [
+      "Superlativo absoluto analítico",
+      "Palíndromo",
+      "Neologismo",
+      "Palavra derivada por sufixação"
+    ],
+    "resposta": "Palavra derivada por sufixação"
+  },
+  {
+    "pergunta": "Qual das opções apresenta linguagem denotativa?",
+    "opcoes": [
+      "O sol chorava no horizonte",
+      "As estrelas dançavam no céu",
+      "O cavalo corre no campo",
+      "Meu coração grita seu nome"
+    ],
+    "resposta": "O cavalo corre no campo"
+  },
+  {
+    "pergunta": "O que indica a conjunção “mas” na frase “Ele estudou, mas não passou”?",
+    "opcoes": [
+      "Adição",
+      "Causa",
+      "Conclusão",
+      "Oposição"
+    ],
+    "resposta": "Oposição"
+  },
+  {
+    "pergunta": "Qual é o tipo de texto que tem como objetivo principal convencer o leitor?",
+    "opcoes": [
+      "Narrativo",
+      "Descritivo",
+      "Dissertativo-argumentativo",
+      "Injuntivo"
+    ],
+    "resposta": "Dissertativo-argumentativo"
+  },
+  {
+    "pergunta": "Em “Se eu soubesse, teria ido”, o verbo está no modo:",
+    "opcoes": [
+      "Indicativo",
+      "Imperativo",
+      "Subjuntivo",
+      "Condicional"
+    ],
+    "resposta": "Subjuntivo"
+  },
+  {
+    "pergunta": "Qual frase apresenta linguagem figurada?",
+    "opcoes": [
+      "O gato dorme no sofá",
+      "O carro está no conserto",
+      "Ela está nas nuvens hoje",
+      "A comida esfriou"
+    ],
+    "resposta": "Ela está nas nuvens hoje"
+  },
+  {
+    "pergunta": "Em “Eles chegaram cedo, portanto conseguiram lugar”, a palavra “portanto” expressa:",
+    "opcoes": [
+      "Causa",
+      "Adição",
+      "Conclusão",
+      "Contraste"
+    ],
+    "resposta": "Conclusão"
+  },
+  {
+    "pergunta": "Qual das opções apresenta um exemplo de metonímia?",
+    "opcoes": [
+      "Ele é um leão nos campos de batalha.",
+      "O autor é Machado de Assis.",
+      "As paredes têm ouvidos.",
+      "Ele leu Shakespeare a noite toda."
+    ],
+    "resposta": "Ele leu Shakespeare a noite toda."
+  },
+  {
+    "pergunta": "A oração 'Se eu soubesse, teria avisado.' apresenta qual tipo de período?",
+    "opcoes": [
+      "Período simples",
+      "Período composto por coordenação",
+      "Período composto por subordinação",
+      "Período composto misto"
+    ],
+    "resposta": "Período composto por subordinação"
+  },
+  {
+    "pergunta": "Na frase 'Ela mesma lavou a louça', qual é a função do termo 'mesma'?",
+    "opcoes": [
+      "Pronome indefinido",
+      "Pronome reflexivo",
+      "Pronome demonstrativo",
+      "Pronome enfático"
+    ],
+    "resposta": "Pronome enfático"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta apenas palavras derivadas?",
+    "opcoes": [
+      "Feliz, felizmente, infeliz",
+      "Casa, casar, casinha",
+      "Sol, solar, solitário",
+      "Mar, maré, marinheiro"
+    ],
+    "resposta": "Feliz, felizmente, infeliz"
+  },
+  {
+    "pergunta": "O que é ambiguidade em um texto?",
+    "opcoes": [
+      "Repetição excessiva de palavras",
+      "Falta de pontuação adequada",
+      "Presença de mais de uma interpretação",
+      "Erro gramatical"
+    ],
+    "resposta": "Presença de mais de uma interpretação"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta um exemplo de linguagem denotativa?",
+    "opcoes": [
+      "Ele está com a cabeça nas nuvens.",
+      "O amor é fogo que arde sem se ver.",
+      "O céu estava azul pela manhã.",
+      "Aquela ideia foi um tiro no escuro."
+    ],
+    "resposta": "O céu estava azul pela manhã."
+  },
+  {
+    "pergunta": "Qual é a figura de linguagem em 'Ele é um poço de paciência'?",
+    "opcoes": [
+      "Hipérbole",
+      "Metáfora",
+      "Ironia",
+      "Comparação"
+    ],
+    "resposta": "Metáfora"
+  },
+  {
+    "pergunta": "Em 'Pedro caiu no vestibular', o verbo 'cair' foi usado com que sentido?",
+    "opcoes": [
+      "Literal",
+      "Denotativo",
+      "Conotativo",
+      "Ambíguo"
+    ],
+    "resposta": "Conotativo"
+  },
+  {
+    "pergunta": "Qual termo completa corretamente a frase: 'Fazem anos que não o vejo'?",
+    "opcoes": [
+      "Fazem",
+      "Faz",
+      "Fizeram",
+      "Fazia"
+    ],
+    "resposta": "Faz"
+  },
+  {
+    "pergunta": "Qual alternativa contém apenas palavras parônimas?",
+    "opcoes": [
+      "Emergir e imergir",
+      "Descrição e discrição",
+      "Ratificar e retificar",
+      "Absolver e absorver"
+    ],
+    "resposta": "Descrição e discrição"
+  },
+  {
+    "pergunta": "Qual é a principal função da linguagem conativa?",
+    "opcoes": ["Convencer o interlocutor", "Expressar emoções", "Transmitir informações", "Explorar o código da linguagem"],
+    "resposta": "Convencer o interlocutor"
+  },
+  {
+    "pergunta": "O que é um pleonasmo?",
+    "opcoes": ["Erro gramatical", "Repetição intencional de palavras com o mesmo sentido", "Palavra estrangeira", "Expressão informal"],
+    "resposta": "Repetição intencional de palavras com o mesmo sentido"
+  },
+  {
+    "pergunta": "Em qual alternativa há uma figura de linguagem chamada metáfora?",
+    "opcoes": ["Ele é como um leão no trabalho", "Ele trabalha muito", "Ele é um leão no trabalho", "Ele gosta de leões"],
+    "resposta": "Ele é um leão no trabalho"
+  },
+  {
+    "pergunta": "Qual das opções apresenta uma oração subordinada adverbial causal?",
+    "opcoes": ["Fui ao cinema porque queria relaxar", "Fui ao cinema, e depois jantei", "Fui ao cinema ou fiquei em casa", "Fui ao cinema, mas estava cansado"],
+    "resposta": "Fui ao cinema porque queria relaxar"
+  },
+  {
+    "pergunta": "A crônica é um gênero textual geralmente marcado por:",
+    "opcoes": ["Linguagem rebuscada e técnica", "Fatos históricos e científicos", "Narrativa curta sobre o cotidiano", "Textos publicitários"],
+    "resposta": "Narrativa curta sobre o cotidiano"
+  },
+  {
+    "pergunta": "Em 'João, que é professor, foi promovido', qual o tipo de oração subordinada?",
+    "opcoes": ["Adjetiva explicativa", "Adverbial causal", "Adjetiva restritiva", "Substantiva subjetiva"],
+    "resposta": "Adjetiva explicativa"
+  },
+  {
+    "pergunta": "A linguagem denotativa tem como principal característica:",
+    "opcoes": ["Uso simbólico das palavras", "Sentido literal e objetivo", "Duplo sentido", "Uso de figuras de linguagem"],
+    "resposta": "Sentido literal e objetivo"
+  },
+  {
+    "pergunta": "Qual das frases contém um erro de concordância verbal?",
+    "opcoes": ["Faltam cinco alunos na sala", "Houveram muitos acidentes", "Chegaram cedo os convidados", "Existem boas opções"],
+    "resposta": "Houveram muitos acidentes"
+  },
+  {
+    "pergunta": "Em 'apesar de tudo, ele venceu', o termo 'apesar de tudo' indica:",
+    "opcoes": ["Causa", "Condição", "Concessão", "Tempo"],
+    "resposta": "Concessão"
+  },
+  {
+    "pergunta": "Em qual alternativa há um uso correto da vírgula?",
+    "opcoes": ["Maria foi, ao mercado comprar frutas", "João comprou pão, leite e queijo", "Eles chegaram tarde mas, felizes", "Andamos muito ontem, e hoje também"],
+    "resposta": "João comprou pão, leite e queijo"
+  },
+  {
+    "pergunta": "Qual das alternativas apresenta um verbo na voz passiva?",
+    "opcoes": ["O aluno escreveu a redação", "A redação foi escrita pelo aluno", "O aluno escreverá a redação", "Escrevendo a redação"],
+    "resposta": "A redação foi escrita pelo aluno"
+  },
+  {
+    "pergunta": "O que é um texto dissertativo-argumentativo?",
+    "opcoes": ["Um texto que narra fatos", "Um texto que descreve pessoas", "Um texto que defende um ponto de vista com argumentos", "Um texto poético"],
+    "resposta": "Um texto que defende um ponto de vista com argumentos"
+  },
+  {
+    "pergunta": "Qual das orações apresenta sentido figurado?",
+    "opcoes": ["Ele está na escola", "Ele tem um coração de pedra", "Ela foi ao médico", "Compramos pão e leite"],
+    "resposta": "Ele tem um coração de pedra"
+  },
+  {
+    "pergunta": "A função metalinguística da linguagem está presente quando:",
+    "opcoes": ["O emissor tenta convencer o receptor", "A linguagem fala de si mesma", "A mensagem se refere ao receptor", "A mensagem causa emoção"],
+    "resposta": "A linguagem fala de si mesma"
+  },
+  {
+    "pergunta": "Em qual das frases o uso da crase está correto?",
+    "opcoes": ["Fui à escola", "Cheguei à tarde", "Entreguei à ele", "Viajamos à noite passada"],
+    "resposta": "Fui à escola"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta um exemplo de polissemia?",
+    "opcoes": ["Chave: objeto para abrir portas ou solução de problema", "Mesa: móvel para refeições", "Cadeira: móvel para sentar", "Papel: folha de papel"],
+    "resposta": "Chave: objeto para abrir portas ou solução de problema"
+  },
+  {
+    "pergunta": "O sujeito indeterminado aparece em qual frase?",
+    "opcoes": ["Estuda-se muito para o vestibular", "Os alunos estudam muito", "O professor estuda muito", "Nós estudamos muito"],
+    "resposta": "Estuda-se muito para o vestibular"
+  },
+  {
+    "pergunta": "A variação linguística ocorre quando:",
+    "opcoes": ["Há erros gramaticais", "Há diferentes formas de falar dependendo do contexto", "Há falta de vocabulário", "A linguagem é usada apenas na escrita"],
+    "resposta": "Há diferentes formas de falar dependendo do contexto"
+  },
+  {
+    "pergunta": "Em qual alternativa temos uma oração coordenada adversativa?",
+    "opcoes": ["Ele estudou, mas não passou", "Ele estudou porque queria passar", "Ele estudou e passou", "Ele estudou quando era jovem"],
+    "resposta": "Ele estudou, mas não passou"
+  },
+  {
+    "pergunta": "Em qual das alternativas o uso do “por que” está correto?",
+    "opcoes": ["Por que você não veio?", "Porque você não veio", "Porquê você não veio", "Por quê você não veio foi estranho"],
+    "resposta": "Por que você não veio?"
+  },
+  {
+    "pergunta": "Qual dos termos abaixo é um advérbio de modo?",
+    "opcoes": ["Felizmente", "Ontem", "Ali", "Muito"],
+    "resposta": "Felizmente"
+  },
+  {
+    "pergunta": "O que é um pleonasmo vicioso?",
+    "opcoes": ["Repetição desnecessária de ideias", "Uso correto da crase", "Omissão do sujeito", "Uso de expressões populares"],
+    "resposta": "Repetição desnecessária de ideias"
+  },
+  {
+    "pergunta": "Qual das palavras abaixo é um exemplo de linguagem conotativa?",
+    "opcoes": ["Sol: estrela do sistema solar", "Chave: objeto que abre portas", "Estrela: símbolo de sucesso", "Mesa: móvel para refeições"],
+    "resposta": "Estrela: símbolo de sucesso"
+  },
+  {
+    "pergunta": "Qual alternativa apresenta um exemplo de aposto?",
+    "opcoes": ["São Paulo, a maior cidade do Brasil, é movimentada", "O garoto correu", "Ela está com fome", "Comprei frutas"],
+    "resposta": "São Paulo, a maior cidade do Brasil, é movimentada"
+  },
+  {
+    "pergunta": "Em qual das frases há uma figura de linguagem chamada hipérbole?",
+    "opcoes": ["Chorei rios de lágrimas", "O céu está azul", "Comprei pão e leite", "Ela é professora"],
+    "resposta": "Chorei rios de lágrimas"
+  },
+  {
+    "pergunta": "Em qual das frases o sujeito é oculto?",
+    "opcoes": ["Estudamos para a prova", "Os alunos estudaram", "Maria estuda bastante", "A professora corrigiu as provas"],
+    "resposta": "Estudamos para a prova"
+  },
+  {
+    "pergunta": "Qual das orações tem sentido causal?",
+    "opcoes": ["Como estava cansado, dormiu cedo", "Ele correu e chegou rápido", "Saiu, mas voltou", "Foi à escola e estudou"],
+    "resposta": "Como estava cansado, dormiu cedo"
+  },
+  {
+    "pergunta": "Em qual das opções há um erro de concordância verbal?",
+    "opcoes": ["As meninas chegaram atrasadas", "Os alunos estudam bastante", "Houve muitos problemas", "Fazem dois anos que moro aqui"],
+    "resposta": "Fazem dois anos que moro aqui"
+  },
+  {
+    "pergunta": "A linguagem denotativa é utilizada:",
+    "opcoes": ["Para expressar emoções", "Para transmitir uma informação objetiva", "Para criar metáforas", "Na poesia apenas"],
+    "resposta": "Para transmitir uma informação objetiva"
+  },
+  {
+    "pergunta": "O uso correto de 'mal' e 'mau' está em:",
+    "opcoes": ["Ele está de mal com a vida", "Esse cachorro é muito mal", "Ela está mal-humorada porque é mau", "Você está sendo mal com ele"],
+    "resposta": "Ele está de mal com a vida"
+  }
+]
+
