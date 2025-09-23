@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import Logo from './assets/Logo.svg';
-import ilustracao from './assets/illustration.png';
+import ilustracao from './assets/Illustration.png';
 
 import questoes1AP from './data/portugues_1a.json';
 import questoes2AP from './data/portugues_2a.json';
