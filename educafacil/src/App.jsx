@@ -45,7 +45,7 @@ function App() {
   const responder = (opcao) => {
     const correta = opcao === questoesAtuais[questaoAtual].resposta;
     if (correta) {
-      setPontuacao(pontuacao + 1);
+      setPontuacao((prev) => prev + 1);
     }
     const proxima = questaoAtual + 1;
     if (proxima < questoesAtuais.length) {
