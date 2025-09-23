@@ -201,52 +201,52 @@
   },
   {
     "pergunta": "O valor de 3⁴ é:",
-    "alternativas": ["12", "64", "81", "27"],
-    "correta": "81"
+    "opcoes": ["12", "64", "81", "27"],
+    "resposta": "81"
   },
   {
     "pergunta": "Se x = 2 e y = 3, o valor de x² + y² é:",
-    "alternativas": ["12", "13", "14", "15"],
-    "correta": "13"
+    "opcoes": ["12", "13", "14", "15"],
+    "resposta": "13"
   },
   {
     "pergunta": "A expressão (5 × 4) ÷ 2 é igual a:",
-    "alternativas": ["5", "10", "15", "20"],
-    "correta": "10"
+    "opcoes": ["5", "10", "15", "20"],
+    "resposta": "10"
   },
   {
     "pergunta": "O logaritmo log₂ 8 é igual a:",
-    "alternativas": ["2", "3", "4", "8"],
-    "correta": "3"
+    "opcoes": ["2", "3", "4", "8"],
+    "resposta": "3"
   },
   {
     "pergunta": "A solução da equação 2x + 5 = 15 é:",
-    "alternativas": ["x = 5", "x = 10", "x = 15", "x = 20"],
-    "correta": "x = 5"
+    "opcoes": ["x = 5", "x = 10", "x = 15", "x = 20"],
+    "resposta": "x = 5"
   },
   {
     "pergunta": "A área de um retângulo com base 12 cm e altura 5 cm é:",
-    "alternativas": ["60 cm²", "50 cm²", "70 cm²", "80 cm²"],
-    "correta": "60 cm²"
+    "opcoes": ["60 cm²", "50 cm²", "70 cm²", "80 cm²"],
+    "resposta": "60 cm²"
   },
   {
     "pergunta": "A função f(x) = 2x - 1, para x = 4, tem valor:",
-    "alternativas": ["6", "7", "8", "9"],
-    "correta": "7"
+    "opcoes": ["6", "7", "8", "9"],
+    "resposta": "7"
   },
   {
     "pergunta": "O quadrado da soma (x + 3)² é igual a:",
-    "alternativas": ["x² + 6x + 9", "x² + 9", "x² + 3", "x² + 3x + 9"],
-    "correta": "x² + 6x + 9"
+    "opcoes": ["x² + 6x + 9", "x² + 9", "x² + 3", "x² + 3x + 9"],
+    "resposta": "x² + 6x + 9"
   },
   {
     "pergunta": "A raiz cúbica de 27 é:",
-    "alternativas": ["2", "3", "4", "9"],
-    "correta": "3"
+    "opcoes": ["2", "3", "4", "9"],
+    "resposta": "3"
   },
   {
     "pergunta": "A equação 5x = 25 tem como solução:",
-    "alternativas": ["x = 10", "x = 5", "x = 2", "x = 1"],
-    "correta": "x = 5"
+    "opcoes": ["x = 10", "x = 5", "x = 2", "x = 1"],
+    "resposta": "x = 5"
   }
 ]
